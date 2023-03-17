@@ -1,0 +1,1 @@
+window.alert("send your order through my given email")
